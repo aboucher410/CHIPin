@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>Campus Spaces</title>
+    <title>CHIP-In Community Connections</title>
     <link rel="stylesheet" href="map.css" type="text/css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.css">
@@ -14,11 +14,15 @@
     <div id="wrapper">
 	 <div id="map"></div>
          <div id='legend'>
-	    <div><span style='background-color: #E6433B'></span>Study Space</div>
-	    <div><span style='background-color: #fae88b'></span>Social Space</div>
-	    <div><span style='background-color: #5EDB7E'></span>ADA Connecting Space</div>
-	    <div><span style='background-color: #036D81'></span>Green Space</div>
-	    <div><span style='background-color: #132438'></span>Diversity Space</div>
+	    <div><span style='background-color: #E6433B'></span>Friends of Franklin Park</div>
+	    <div><span style='background-color: #fae88b'></span>Friends of China Lake Park</div>
+	    <div><span style='background-color: #5EDB7E'></span>Friends of Oak Tree Park</div>
+	    <div><span style='background-color: #036D81'></span>Friends of McKinley Park</div>
+	    <div><span style='background-color: #132438'></span>Friends of Charlotte Blueberry Park</div>
+	    <div><span style='background-color: #132438'></span>Friends of Wapato Lake Park</div>
+	    <div><span style='background-color: #132438'></span>Friends of Point Defiance Park</div>
+	    <div><span style='background-color: #132438'></span>Friends of Swan Creek Park</div>
+	    <div><span style='background-color: #132438'></span>Friends of Tacoma Nature Center</div>
 
 	<!-- <div id="menu">
             <h2>CHIP-In Community Connections</h2>
