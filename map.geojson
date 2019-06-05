@@ -1,0 +1,146 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Friends of Franklin Park": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.480736,
+          47.248154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Friends of China Lake": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.509575,
+          47.246202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.532578,
+          47.310984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Friends of Garfield Gulch": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.457991,
+          47.26962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Friends of McKinley Park": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420268,
+          47.236529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Friends of Swan Creek": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.399282,
+          47.211319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Friends of Charolotte Blueberry Park": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.454686,
+          47.19747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Friends of Charolotte Blueberry Park": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.428551,
+          47.188313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Friends of Ryans Park": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.438421,
+          47.185046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Friends of Oak Tree Park": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.474502,
+          47.186585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Friends of Snake Lake Park": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.491357,
+          47.237272
+        ]
+      }
+    }
+  ]
+}
